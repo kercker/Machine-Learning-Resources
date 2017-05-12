@@ -7,3 +7,5 @@ Various resources concerning machine learning
   * [Video](https://www.youtube.com/playlist?list=PLyGKBDfnk-iDj3FBd0Avr_dLbrU8VG73O)
 ### [Regularization Methods for High Dimensional Learning](http://www.disi.unige.it/dottorato/corsi/RegMet2011/)
   * From: UNIGE.it
+### [CS229 Machine Learning](http://cs229.stanford.edu/)
+  * From: Stanford
