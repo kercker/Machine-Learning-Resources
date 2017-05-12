@@ -17,3 +17,7 @@ Various resources concerning machine learning
 ### [Introductory Machine Learning Notes](http://lcsl.mit.edu/courses/ml/1617/MLNotes.pdf)
   * Lorenzo Rosasco
   * 61 pages
+## Papers
+### [The Mathematics of Learning: Dealing with Date](http://cbcl.mit.edu/projects/cbcl/publications/ps/notices-ams2003refs.pdf)
+  * Tomaso Poggio and Steve Smale
+  * Notices of American Mathematical Society(AMS)
