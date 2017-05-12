@@ -16,3 +16,4 @@ Various resources concerning machine learning
   * 640 pages
 ### [Introductory Machine Learning Notes](http://lcsl.mit.edu/courses/ml/1617/MLNotes.pdf)
   * Lorenzo Rosasco
+  * 61 pages
