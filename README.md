@@ -46,3 +46,11 @@ Various resources concerning machine learning
     * Spectral methods
     * Convex optimization
     * Adaptive signal processing
+### [Jure Leskovec](https://cs.stanford.edu/people/jure/)
+  * @Stanford University
+  * BS  - University of Ljubljana, Slovenia
+  * PhD - CMU
+  * Research Interests
+    * Large real-world social and information networks
+    * The evolution of the networks
+    * Diffusion of information and influence through the netorks
