@@ -9,6 +9,9 @@ Various resources concerning machine learning
   * From: UNIGE.it
 ### [CS229 Machine Learning](http://cs229.stanford.edu/)
   * From: Stanford
+### [COS597C: Advanced Methods in Probabilistic Modeling](https://www.cs.princeton.edu/courses/archive/fall11/cos597C/)
+  * From: Princeton
+  * David Blei
 
 ## Books
 ### [Information Theory, Inference, and Learning Algorithms](http://www.inference.phy.cam.ac.uk/itprnn/book.pdf)
