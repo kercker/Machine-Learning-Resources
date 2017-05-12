@@ -21,3 +21,12 @@ Various resources concerning machine learning
 ### [The Mathematics of Learning: Dealing with Date](http://cbcl.mit.edu/projects/cbcl/publications/ps/notices-ams2003refs.pdf)
   * Tomaso Poggio and Steve Smale
   * Notices of American Mathematical Society(AMS)
+## People
+### [David M. Blei](http://www.cs.columbia.edu/~blei/)
+  * @Columbia University
+  * B.Sc  - Brown University
+  * Ph.D. - University of Califonia Berkeley
+  * Research Interests:
+  ** Topic models
+  ** Probabilistic Modeling
+  ** Approximate Bayesian inference
