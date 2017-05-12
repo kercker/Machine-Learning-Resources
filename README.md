@@ -24,9 +24,25 @@ Various resources concerning machine learning
 ## People
 ### [David M. Blei](http://www.cs.columbia.edu/~blei/)
   * @Columbia University
-  * B.Sc  - Brown University
-  * Ph.D. - University of Califonia Berkeley
-  * Research Interests:
+  * BS  - Brown University
+  * PhD - University of Califonia Berkeley
+  * Research Interests
     * Topic models
     * Probabilistic Modeling
     * Approximate Bayesian inference
+### [Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/)
+  * @University of Califonia Berkeley
+  * BS  - Louisiana State University
+  * MS  - Arizona State University
+  * PhD - University of Califonia San Diego
+  * Research Interests
+    * Statistical machine learning
+    * Bayesian nonparametric statistics
+    * Graphical models
+    * Variational inference methods
+    * Computational biology, statistical genetics
+    * Human motor control, speech production, cognitive modeling
+    * Distributed statistical inference
+    * Spectral methods
+    * Convex optimization
+    * Adaptive signal processing
