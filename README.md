@@ -9,3 +9,10 @@ Various resources concerning machine learning
   * From: UNIGE.it
 ### [CS229 Machine Learning](http://cs229.stanford.edu/)
   * From: Stanford
+
+## Books
+### [Information Theory, Inference, and Learning Algorithms](http://www.inference.phy.cam.ac.uk/itprnn/book.pdf)
+  * David J.C. MacKay
+  * 640 pages
+### [Introductory Machine Learning Notes](http://lcsl.mit.edu/courses/ml/1617/MLNotes.pdf)
+  * Lorenzo Rosasco
