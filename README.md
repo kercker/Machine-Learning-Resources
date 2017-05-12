@@ -27,6 +27,6 @@ Various resources concerning machine learning
   * B.Sc  - Brown University
   * Ph.D. - University of Califonia Berkeley
   * Research Interests:
-  ** Topic models
-  ** Probabilistic Modeling
-  ** Approximate Bayesian inference
+    * Topic models
+    * Probabilistic Modeling
+    * Approximate Bayesian inference
